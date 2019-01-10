@@ -9,6 +9,7 @@ There are a number of resources available online that can be used to identify ad
 - [Afrocentric Voices in “Classical” Music](http://afrovoices.com/collections/)
 - [Composer Diversity Database](https://composerdiversity.com)
 - [Music by Black Composers](http://afrovoices.com/collections/)
+- [Women in Music Resources](https://musictheoryexamplesbywomen.com/women-in-music-resources/) compiled by the MTEW team
 
 #### Contribute
 If you would like to suggest a composition to include in this repository or a resource that curates names and music by un(der)-represented people, please visit [link tbd] and submit your suggestion.
