@@ -4,7 +4,6 @@ This project seeks to decenter the musical canon and make data-driven music scho
 ### Corpus 1
 We are beginning with a small corpus shared by the [Music Theory Examples by Women (MTEW) project](https://musictheoryexamplesbywomen.com/). Their work includes the compilation of excerpts and complete musical compositions by women composers, including women of color. It is used by music theory, history, and performance faculty, and students, as well as secondary music teachers. MTEW has a diverse corpus of music by women from which we can draw, and the data we extract and encode will be made available via their project for greater visibility and reuse.
 
-#### Process 
+### Process 
 The data from these music scores in PDF format will be extracted using optical music recognition (OMR) and notation software and transformed into symbolic music notation (encoded data) as MusicXML and MEI XML. An MEI template and files will be created according to the MEI guidelines. These data will be made available for download in this repository and can be used for research and pedagogical purposes by a diverse audience, which  may include musicians, teachers (K-12+), students, library/archives professionals, and university faculty.
 
-#### Who we Are
