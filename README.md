@@ -6,7 +6,7 @@ Data will be extracted from music scores (PDF) using optical music recognition (
 
 ### Resources
 There are a number of resources available online that can be used to identify additional works for encoding. 
-- [Afrocentric Voices in “Classical” Music](http://afrovoices.com/collections/) compiled by Randye Jones
+- [Afrocentric Voices in “Classical” Music](http://afrovoices.com/collections/) curated by Randye Jones
 - [Composer Diversity Database](https://composerdiversity.com) founded by Dr. Rob Deemer
 - [Music by Black Composers](https://www.musicbyblackcomposers.org/) project of the Rachel Barton Pine Foundation 
 - [Women in Music Resources](https://musictheoryexamplesbywomen.com/women-in-music-resources/) compiled by the MTEW team
