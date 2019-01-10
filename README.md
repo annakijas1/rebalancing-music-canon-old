@@ -4,8 +4,6 @@ The impetus for the creation of a music data repository focused on works by un(d
 ### Process 
 Data will be extracted from music scores (PDF) using optical music recognition (OMR) tools, edited with notation software, and transformed into symbolic music notation (encoded data) in MusicXML and MEI XML formats. An MEI template and files will be created according to the MEI guidelines. Our data will be organized into three buckets: Extracted Data, Corrected Data, Encoded Data.
 
-All of the data will be made available for download in this repository and can be used for research and pedagogical purposes.
-
 ### Resources
 There are a number of resources available online that can be used to identify additional works for encoding. 
 - [Afrocentric Voices in “Classical” Music](http://afrovoices.com/collections/) curated by Randye Jones
