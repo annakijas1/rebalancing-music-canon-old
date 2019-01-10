@@ -7,3 +7,15 @@ We are beginning with a small corpus shared by the [Music Theory Examples by Wom
 ### Process 
 The data from these music scores in PDF format will be extracted using optical music recognition (OMR) and notation software and transformed into symbolic music notation (encoded data) as MusicXML and MEI XML. An MEI template and files will be created according to the MEI guidelines. These data will be made available for download in this repository and can be used for research and pedagogical purposes by a diverse audience, which  may include musicians, teachers (K-12+), students, library/archives professionals, and university faculty.
 
+### Resources
+There are a number of resources available online that can be used to identify additional works for encoding. 
+- [Afrocentric Voices in “Classical” Music](http://afrovoices.com/collections/)
+- [Composer Diversity Database](https://composerdiversity.com)
+- [Music by Black Composers](http://afrovoices.com/collections/)
+
+#### Contribute
+If you would like to suggest a composition to include in this repository or a resource that curates names and music by un(der)-represented people, please visit [link tbd] and submit your suggestion.
+
+You can also contribute by cleaning up the extracted PDF files or encoding the data so that it can be made available in MEI XML format.
+
+
