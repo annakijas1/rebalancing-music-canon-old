@@ -8,7 +8,7 @@ In addition to making the data open and accessible, we will include a documented
 - [Women in Music Resources](https://musictheoryexamplesbywomen.com/women-in-music-resources/) compiled by the Music Theory Examples by Women team
 
 ### Process 
-Data will be extracted from music scores (PDF) using optical music recognition (OMR) tools, edited with notation software, and transformed into symbolic music notation (encoded data) in MusicXML and MEI XML formats. An MEI template and files will be created according to the MEI guidelines. Our data will be organized into three buckets: Extracted Data, Corrected Data, Encoded Data.
+Data will be extracted from music scores (PDF) using optical music recognition (OMR) tools, it will be edited with notation software, and transformed into symbolic music notation (encoded data) in MusicXML and MEI XML formats. An MEI template and files will be created according to the MEI guidelines. Our data will be organized into three buckets: Extracted Data, Corrected Data, Encoded Data.
 
 #### How Can You Contribute
 - Clean up and correct the data extracted from PDF files
