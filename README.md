@@ -10,10 +10,10 @@ In addition to making the data open and accessible, we will include a documented
 ### Process 
 Data will be extracted from music scores (PDF) using optical music recognition (OMR) tools, it will be edited with notation software, and transformed into symbolic music notation (encoded data) in MusicXML and MEI XML formats. An MEI template and files will be created according to the MEI guidelines. Our data will be organized into three buckets: Extracted Data, Corrected Data, Encoded Data.
 
-#### How Can You Contribute
+### Contribute
 [Contact us via this form](https://goo.gl/forms/1UggNJKRU14q9Sh63) and identify how you would like to contribute. Everyone who contributes to this repository will be acknowledged on the [collaborators](/collaborators.md) page. You can also contribute via a pull request in Github.
 
-#### We need help with 
+#### Help with...
 - Extracting data from score PDF files [(see corpus 1 spreadsheet)](https://docs.google.com/spreadsheets/d/1Z9dzcnmz6S_bHAwdTHTnPlaDxmvbVXNBCqfpHvhmcWU/edit?usp=sharing)
 - Correcting extracted data (against original score PDFs)
 - Encoding data in Music XML or MEI formats
