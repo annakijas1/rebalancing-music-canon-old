@@ -4,5 +4,8 @@ We are beginning with a small corpus (about 178 pieces) shared by the [Music The
 The list of compositions and composers that will be encoded is drawn from the MTEW project and can be viewed in this [spreadsheet](https://docs.google.com/spreadsheets/d/1Z9dzcnmz6S_bHAwdTHTnPlaDxmvbVXNBCqfpHvhmcWU/edit?usp=sharing).
 Extracted data will be checked against the score listed in the spreadsheet and can be found as a PDF on the MTEW site. We will not store the score PDFs in this repository. 
 
+### Contribute
+[Contact us via this form](https://goo.gl/forms/1UggNJKRU14q9Sh63) and identify how you would like to contribute. Everyone who contributes to this repository will be acknowledged on the [collaborators](/collaborators.md) page. You can also contribute via a pull request in Github.
+
 ### Acknowledgements
 Ben Parsell and Molly Murdock of the Music Theory Examples by Women project were kind enough to share the music score PDFs that make up this initial corpus.
