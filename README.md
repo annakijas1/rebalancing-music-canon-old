@@ -14,7 +14,7 @@ Data will be extracted from music scores (PDF) using optical music recognition (
 Contact us via this form [insert link] and identify how you would like to contribute. Everyone who contributes to this repository will be acknowledged on the [collaborators](/collaborators.md) page. You can also contribute via a pull request in Github.
 
 #### We need help with 
-- Extracting data from score PDF files (see corpus 1 spreadsheet)[https://docs.google.com/spreadsheets/d/1Z9dzcnmz6S_bHAwdTHTnPlaDxmvbVXNBCqfpHvhmcWU/edit?usp=sharing]
+- Extracting data from score PDF files [see corpus 1 spreadsheet](https://docs.google.com/spreadsheets/d/1Z9dzcnmz6S_bHAwdTHTnPlaDxmvbVXNBCqfpHvhmcWU/edit?usp=sharing)
 - Correcting extracted data (against original score PDFs)
 - Encoding data in Music XML or MEI formats
 - Providing suggestions for compositions to add to corpus 2
