@@ -10,5 +10,6 @@ This music data repository is focused on works by un(der)-represented people and
 In addition to making the data open and accessible, we will include a documented workflow that will make it easier and more likely for scholars, library professionals, and students to understand the process of extracting and encoding music for research and pedagogical uses, including computational work. In this sense, we envision this repository serving as a companion to other projects that bring visibility to un(der)-represented people, in particular:
 - [Afrocentric Voices in “Classical” Music](http://afrovoices.com/collections/) curated by Randye Jones
 - [Composer Diversity Database](https://composerdiversity.com) founded by Dr. Rob Deemer
+- [Donne Women in Music](http://www.drama-musica.com/Donne.html) founded by Gabriella Di Laccio
 - [Music by Black Composers](https://www.musicbyblackcomposers.org/) project of the Rachel Barton Pine Foundation
 - [Women in Music Resources](https://musictheoryexamplesbywomen.com/women-in-music-resources/) compiled by the Music Theory Examples by Women team
