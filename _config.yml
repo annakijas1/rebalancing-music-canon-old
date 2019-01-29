@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Rebalancing the Music Canon
 email:
-description: This is a website for the Rebalancing the music canon repository of encoded music data.
+description: This is a website for the Rebalancing the Music Canon repository of encoded music data.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/BCDigSchol/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
