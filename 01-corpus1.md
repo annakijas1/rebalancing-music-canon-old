@@ -1,7 +1,7 @@
 ---
 layout: page
-title: corpus
-permalink: /corpus/
+title: corpus 1
+permalink: /corpus1/
 ---
 
 ### about corpus 1
