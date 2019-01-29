@@ -1,3 +1,3 @@
-This is the main repository for *Rebalancing the Music Canon*, where we keep the extracted, corrected, and encoded data, as well as files for the live website. 
+This is the main repository for *Rebalancing the Music Canon* where we keep the extracted, corrected, and encoded data, as well as files for the live website. 
 
 The impetus for the creation of a music data repository focused on works by un(der)-represented people is to decenter the musical canon and make data-driven music scholarship more diverse and inclusive. In particular, this repository will contain a dataset of compositions spanning a large historical period by an un(der)-represented group (primarily women and people of color) that has generally been left out of (big) data driven scholarship work. 
