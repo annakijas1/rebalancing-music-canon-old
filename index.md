@@ -5,7 +5,7 @@
 layout: page
 ---
 
-This music data repository is focused on works by un(der)-represented people and the aim is to decenter the musical canon and make data-driven music scholarship more diverse and inclusive. In particular, this repository will contain a dataset of compositions spanning a large historical period by an un(der)-represented group (primarily women and people of color) that has generally been left out of (big) data driven scholarship work.
+This [music data repository](https://bcdigschol.github.io/rebalancing-music-canon/) is focused on works by un(der)-represented people and the aim is to decenter the musical canon and make data-driven music scholarship more diverse and inclusive. In particular, this repository will contain a dataset of compositions spanning a large historical period by an un(der)-represented group (primarily women and people of color) that has generally been left out of (big) data driven scholarship work.
 
 In addition to making the data open and accessible, we will include a documented workflow that will make it easier and more likely for scholars, library professionals, and students to understand the process of extracting and encoding music for research and pedagogical uses, including computational work. In this sense, we envision this repository serving as a companion to other projects that bring visibility to un(der)-represented people, in particular:
 - [Afrocentric Voices in “Classical” Music](http://afrovoices.com/collections/) curated by Randye Jones
