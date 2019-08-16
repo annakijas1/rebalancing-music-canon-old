@@ -3,7 +3,7 @@ layout: page
 title: contribute
 permalink: /contribute/
 ---
-[Contact us via this form](https://goo.gl/forms/1UggNJKRU14q9Sh63) and identify how you would like to contribute. Everyone who contributes to this repository will be acknowledged on the [collaborators](/collaborators) page. You can also contribute via a [pull request in Github](https://github.com/BCDigSchol/rebalancing-music-canon/).
+[Contact us via this form](https://goo.gl/forms/1UggNJKRU14q9Sh63) and identify how you would like to contribute. Everyone who contributes to this repository will be acknowledged on the [collaborators](/collaborators) page. You can also contribute via a [pull request in Github](https://github.com/annakijas1/rebalancing-music-canon/).
 
 ### tasks
 - extract data from score PDF files [(see corpus 1 spreadsheet)](https://docs.google.com/spreadsheets/d/1Z9dzcnmz6S_bHAwdTHTnPlaDxmvbVXNBCqfpHvhmcWU/edit?usp=sharing)
