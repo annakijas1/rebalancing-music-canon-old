@@ -17,9 +17,9 @@ title: Rebalancing the Music Canon
 email: 
 description: This is a website for the Rebalancing the Music Canon repository of encoded music data.
 baseurl: "/rebalancing-music-canon" # the subpath of your site, e.g. /blog
-url: "https://bcdigschol.github.io/rebalancing-music-canon/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://annakijas1.github.io/rebalancing-music-canon/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username:  BCDigSchol
+github_username:  annakijas1
 
 # Build settings
 markdown: kramdown
