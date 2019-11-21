@@ -4,8 +4,10 @@ title: collaborators
 permalink: /collaborators/
 ---
 
-## Boston College 
-- Anna Kijas, Senior Digital Scholarship Librarian
+## Tufts University
+- Anna Kijas, Head, Lilly Music Library
+
+## Boston College 2018-19
 - Gina Chun, Undergraduate student (Digital Studio)
 - Emma Grimm, Undergraduate student (Digital Studio)
 
