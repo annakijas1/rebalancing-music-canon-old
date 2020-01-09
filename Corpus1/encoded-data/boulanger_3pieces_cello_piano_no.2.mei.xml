@@ -2,7 +2,7 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink"
-   meiversion="2013">
+   meiversion="3.0">
    <meiHead>
       <fileDesc>
          <titleStmt>
